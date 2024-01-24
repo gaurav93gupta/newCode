@@ -3,7 +3,7 @@ body{
     
    
      background-color: rgb(227, 244, 193); 
-     background:linear-gradient(to right relative);
+   
     
     text-align: center;
     font-size: 24px;
@@ -12,7 +12,7 @@ body{
     
     font-weight: bold;
     text-align: center;
-    background-image: url('/img/BHARAT.png') ;
+    background-image: url('BHARAT.png') ;
     background-position-x: center;
     background-position-y: -10%;
     
